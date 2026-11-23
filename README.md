@@ -22,7 +22,7 @@ Different versions of the logo, originally created by [Gerrit Grunwald](https://
 
 ## Sponsor Badges
 
-Badges for Foojay sponsors to display on their own site, one per sponsorship tier.
+Badges for Foojay sponsors and community partners to display on their own site, one per tier.
 
 ### Bronze
 
@@ -35,3 +35,7 @@ Badges for Foojay sponsors to display on their own site, one per sponsorship tie
 ### Gold
 
 <img src="sponsor-badge/foojay-sponsor-gold.svg" alt="Foojay.io Gold Sponsor" width="200">
+
+### Community Partner
+
+<img src="sponsor-badge/foojay-community-partner.svg" alt="Foojay.io Community Partner" width="200">
