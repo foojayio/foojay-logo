@@ -19,3 +19,19 @@ Different versions of the logo, originally created by [Gerrit Grunwald](https://
 ### Reporter
 
 ![](podcast/reporter/foojay-reporter.png)
+
+## Sponsor Badges
+
+Badges for Foojay sponsors to display on their own site, one per sponsorship tier.
+
+### Bronze
+
+<img src="sponsor-badge/foojay-sponsor-bronze.svg" alt="Foojay.io Bronze Sponsor" width="200">
+
+### Silver
+
+<img src="sponsor-badge/foojay-sponsor-silver.svg" alt="Foojay.io Silver Sponsor" width="200">
+
+### Gold
+
+<img src="sponsor-badge/foojay-sponsor-gold.svg" alt="Foojay.io Gold Sponsor" width="200">
